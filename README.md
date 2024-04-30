@@ -1,5 +1,4 @@
-
-## Sciflare-Tech-Task
+# Sciflare-Tech-Task
 
 This iOS application is designed to demonstrate the integration of various functionalities including fetching data from an API, storing it locally using Core Data, editing/updating existing data, adding new user data, and displaying the user's location on a map.
 
